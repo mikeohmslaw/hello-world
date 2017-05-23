@@ -1,2 +1,3 @@
 # hello-world
 this is the beginning of a new and wonderful great career in programming for me. which is something I've wanted to do for a very long time.
+I've finally got up the courage to do it. My father was an Eletronic Techanician during my enrire childhood. So at a very young age , I wanted to be like daddy so I sat near his workbench and accidenntly put my hand right in the middle of the circuit he was working on and a vacum tube capaciter was fully charged. You can guess waht happeds next. Yep!! A discharge!! YIKES!! I learned real fast to have the upmost respect fot electricitty as a whole. 
